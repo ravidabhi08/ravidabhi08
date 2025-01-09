@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravidabhi08&label=Profile%20views&color=0e75b6&style=flat" alt="ravidabhi08" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ravidabhi08" alt="ravidabhi08" /></a> </p>
-
 - 📫 How to reach me **dabhiravi4763@gmail.com**
 
 - ⚡ Fun fact **I think i am so happy**
